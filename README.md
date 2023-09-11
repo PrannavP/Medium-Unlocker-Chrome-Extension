@@ -39,4 +39,4 @@ The core logic behind the Medium Unlocker Chrome Extension is contributed by [su
 
 ## Contributing
 
-We welcome contributions to improve this extension. If you'd like to contribute or report issues, please check out our [Contribution Guidelines](CONTRIBUTING.md) for more details.
+We welcome contributions to improve this extension. If you'd like to contribute or report issues, please feel free to do so.
