@@ -32,7 +32,7 @@ async function useCurrentURL(){
     }
 }
 
-// URL validation
+// This function used to check the currentTab URL matches the regex or not but i decided to remove it for now :)
 
 function validateURL(url){
     const userURL = url;
