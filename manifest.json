@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Medium Unlocker",
+    "description": "Extension that helps you to read medium posts without paying or signing up.",
+    "version": "1.0",
+    "permissions": [
+        "activeTab"
+    ],
+    "action": {
+        "default_popup": "./popup/index.html",
+        "default_icon": "./images/medium-unlocker.png"
+    }
+}
